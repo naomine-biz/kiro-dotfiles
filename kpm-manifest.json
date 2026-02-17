@@ -1,0 +1,28 @@
+{
+  "packages": {
+    "language-settings": {
+      "path": ".kiro/steering/language-settings.md",
+      "local_path": "steering/language-settings.md"
+    },
+    "design-first-spec": {
+      "path": ".kiro/steering/design-first-spec.md",
+      "local_path": "steering/design-first-spec.md"
+    },
+    "auto-load-skills": {
+      "path": ".kiro/steering/auto-load-skills.md",
+      "local_path": "steering/auto-load-skills.md"
+    },
+    "ask-when-stuck": {
+      "path": ".kiro/steering/ask-when-stuck.md",
+      "local_path": "steering/ask-when-stuck.md"
+    },
+    "skill-spec-management": {
+      "path": ".kiro/skills/spec-management/SKILL.md",
+      "local_path": "skills/spec-management/SKILL.md"
+    },
+    "skill-issue-management": {
+      "path": ".kiro/skills/issue-management/SKILL.md",
+      "local_path": "skills/issue-management/SKILL.md"
+    }
+  }
+}
