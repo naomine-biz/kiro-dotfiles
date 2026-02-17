@@ -9,5 +9,5 @@ inclusion: always
 
 | キーワード（いずれか一致） | Skill 名 |
 |---|---|
-| Issue, チケット, タスク, MR, マージリクエスト, ステータス更新, バックログ | issue-management |
+| Issue, チケット, タスク, MR, マージリクエスト, PR, プルリクエスト, ステータス更新, バックログ | issue-management |
 | Spec, 要件, 設計ドキュメント, tasks.md | spec-management |
