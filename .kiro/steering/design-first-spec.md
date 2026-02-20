@@ -1,3 +1,7 @@
+---
+inclusion: always
+---
+
 # Design-First Spec ワークフロー
 
 ユーザーが「design-first」と指定した場合、通常の spec ワークフロー（requirements → design → tasks）の前に design-draft ステップを挟む。

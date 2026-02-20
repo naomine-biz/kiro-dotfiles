@@ -1,6 +1,6 @@
 ---
 inclusion: always
-priority: highest
+priority: high
 ---
 
 # 詰まったら質問する
