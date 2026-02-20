@@ -16,6 +16,10 @@
       "path": ".kiro/steering/ask-when-stuck.md",
       "local_path": "steering/ask-when-stuck.md"
     },
+    "never-delete-data": {
+      "path": ".kiro/steering/never-delete-data.md",
+      "local_path": "steering/never-delete-data.md"
+    },
     "skill-spec-management": {
       "path": ".kiro/skills/spec-management/SKILL.md",
       "local_path": "skills/spec-management/SKILL.md"
